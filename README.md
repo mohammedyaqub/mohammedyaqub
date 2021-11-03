@@ -8,5 +8,5 @@
 - 🤔 I’m looking for help with docker and kubernetes
 - 💬 Ask me about C and golang
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love to contribute to Open Source  
+- :heart: I love to contribute to Open Source  
 
