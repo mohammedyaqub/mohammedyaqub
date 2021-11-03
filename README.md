@@ -1,4 +1,4 @@
-## Hi there 👋 Thank you for looking at profile, I'am mohammed Yaqub :grinning: 
+##   Thank you for looking at profile,👋 I'am mohammed Yaqub :grinning: 
  
 
 - 🔭 I’m currently working on golang for implementing API 
