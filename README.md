@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate with other C and golang developer 
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - 🤔 I’m looking for help with docker and kubernetes
-- 💬 Ask me about C and golang [here](https://github.com/mohammedyaqub/mohammedyaqub/issues)
+- 💬 Ask me about anything [here](https://github.com/mohammedyaqub/mohammedyaqub/issues)
 - 😄 Pronouns: He/Him
 - :heart: I love to contribute to Open Source  
 
