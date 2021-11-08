@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on golang for implementing API 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other C and golang developer :handshake:	
-- 🥅 2022 Goals: Contribute more to Open Source projects  :thumbsup:
+- 🥅 2021 Goals: Contribute more to Open Source projects  :thumbsup:
 - 🤔 I’m looking for help with docker and kubernetes
 - 💬 Ask me about anything [here](https://github.com/mohammedyaqub/mohammedyaqub/issues)
 - 😄 Pronouns: He/Him
