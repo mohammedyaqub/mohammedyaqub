@@ -1,10 +1,10 @@
 ##   Thank you for looking at profile,👋 I'am mohammed Yaqub :grinning: 
  
 
-- 🔭 I’m currently working on golang for implementing API 
+- 🔭 I have a experienced working with C programming.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other C and golang developer :handshake:	
-- 🥅 2021 Goals: Contribute more to Open Source projects  :thumbsup:
+- 🥅 2022 Goals: Contribute more to Open Source projects such as LINUX KERNEL :thumbsup:
 - 🤔 I’m looking for help with docker and kubernetes
 - 💬 Ask me about anything [here](https://github.com/mohammedyaqub/mohammedyaqub/issues)
 - 😄 Pronouns: He/Him
