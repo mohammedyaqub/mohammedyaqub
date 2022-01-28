@@ -1,7 +1,7 @@
 ##   Thank you for looking at profile,👋 I'am mohammed Yaqub :grinning: 
  
 
-- 🔭 I have a experienced working with C programming.
+- 🔭 I have experienced working with C programming.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other C and golang developer :handshake:	
 - 🥅 2022 Goals: Contribute more to Open Source projects such as LINUX KERNEL :thumbsup:
