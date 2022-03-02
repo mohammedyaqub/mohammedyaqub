@@ -1,11 +1,12 @@
 ##   Thank you for looking at profile,👋 I'am mohammed Yaqub :grinning: 
  
 
+- 🔭 Currently working on 5GCore networking.
 - 🔭 I have experienced working with C programming.
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything about networking🤣.
 - 👯 I’m looking to collaborate with other C and golang developer :handshake:	
 - 🥅 2022 Goals: Contribute more to Open Source projects.
-- 🤔 I’m looking for help with docker and kubernetes
+- 🤔 I’m looking for help with docker and kubernetes.
 - 💬 Ask me about anything [here](https://github.com/mohammedyaqub/mohammedyaqub/issues)
 - 😄 Pronouns: He/Him
 - :heart: I love to contribute to Open Source  
