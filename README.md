@@ -3,7 +3,7 @@
 
 - 🔭 Currently working on payment processing, payment gateway, payment applications.
 - 🔭 I have experienced working with Go programming.
-- 🌱 I’m currently learning everything about networking🤣.
+- 🌱 I’m currently learning everything about payments systems, payment acquirer as being in fintech.
 - 👯 I’m looking to collaborate with other golang developer :handshake:	
 - 🥅 2025 Goals: Contribute more to Open Source libraries.
 - 🤔 I’m looking for help with system design.
