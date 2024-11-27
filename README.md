@@ -1,12 +1,12 @@
 ##   Thank you for looking at profile,👋 I'am mohammed Yaqub :grinning: 
  
 
-- 🔭 Currently working on 5GCore Networking Data Plane Function.
-- 🔭 I have experienced working with C programming.
+- 🔭 Currently working on payment processing, payment gateway.
+- 🔭 I have experienced working with Go programming.
 - 🌱 I’m currently learning everything about networking🤣.
-- 👯 I’m looking to collaborate with other C and golang developer :handshake:	
-- 🥅 2023 Goals: Contribute more to Open Source projects.
-- 🤔 I’m looking for help with docker and kubernetes.
+- 👯 I’m looking to collaborate with other golang developer :handshake:	
+- 🥅 2025 Goals: Contribute more to Open Source libraries.
+- 🤔 I’m looking for help with system design.
 - 💬 Ask me about anything [here](https://github.com/mohammedyaqub/mohammedyaqub/issues)
 - 😄 Pronouns: He/Him
 - :heart: I love to contribute to Open Source  
