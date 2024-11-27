@@ -1,7 +1,7 @@
 ##   Thank you for looking at profile,👋 I'am mohammed Yaqub :grinning: 
  
 
-- 🔭 Currently working on payment processing, payment gateway, payment applications.
+- 🔭 Currently working as software engineer on payment processing, payment gateway, payment applications.
 - 🔭 I have experienced working with Go programming.
 - 🌱 I’m currently learning everything about payments systems, payment acquirer as being in fintech.
 - 👯 I’m looking to collaborate with other golang developer :handshake:	
